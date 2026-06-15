@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie:wght@400&display=swap');
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
 
@@ -99,8 +99,12 @@
   --transition-default: all 0.3s ease;
   --transition-hover: all 0.3s ease;
 
-  --heading-font: 'Montserrat', sans-serif;
-  --font-heading: 'Montserrat', sans-serif;}
+  --heading-font: 'Righteous', sans-serif;
+  --font-heading: 'Righteous', sans-serif;
+  --body-font: 'Reenie Beanie', sans-serif;
+  --font-family: 'Reenie Beanie', sans-serif;
+  --font-primary: 'Reenie Beanie', sans-serif;
+  --font-body: 'Reenie Beanie', sans-serif;}
 
 *, *::before, *::after {
   box-sizing: border-box;
@@ -119,7 +123,7 @@ html {
 body {
   font-size: 16px !important;
   line-height: 1.7 !important;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   color: var(--text-dark);
   background-color: var(--bg-light);
   -webkit-font-smoothing: antialiased;
@@ -169,7 +173,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   letter-spacing: -0.01em;
   color: var(--text-dark);
   overflow-wrap: break-word;
@@ -222,7 +226,7 @@ em, i {
 }
 
 blockquote {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-style: italic;
   border-left: 3px solid var(--secondary);
   padding-left: 1.5rem;
@@ -255,7 +259,7 @@ hr {
   cursor: pointer;
   text-decoration: none;
   border: 2px solid transparent;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   letter-spacing: 0.02em;
   gap: 8px;
 }
@@ -424,7 +428,7 @@ html:not([dir]) .whatsapp-float {
 
 body {
   margin: 0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .navbar {
@@ -627,7 +631,7 @@ body {
 
 body {
   margin: 0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .navbar {
@@ -1048,7 +1052,7 @@ html[lang="ar"] .nav-right-group .nav-menu {
   background: none;
   border: none;
   cursor: pointer;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.9rem;
   font-weight: 500;
   display: inline-flex;
@@ -1751,7 +1755,7 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
   background-color: var(--bg-dark, #2C2238);
   color: var(--text-light, #F8F4EF);
   padding: 4rem 2rem 0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   position: relative;
   overflow: hidden;
 }
@@ -2243,7 +2247,7 @@ main { flex: 1 0 auto; }
 }
 
 /* H1 headline */
-.home-hero-section__headline {font-family: 'Montserrat', sans-serif;
+.home-hero-section__headline {font-family: 'Righteous', sans-serif;
   font-size: 3rem;
   font-weight: 400;
   font-style: italic;
@@ -2254,7 +2258,7 @@ main { flex: 1 0 auto; }
 
 /* H3 subtitle */
 .home-hero-section__subtitle {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 1.1rem;
   font-weight: 500;
   line-height: 1.6;
@@ -2434,7 +2438,7 @@ main { flex: 1 0 auto; }
     background: linear-gradient(180deg, #F0EBE3 0%, #E8E0D5 100%);
     color: var(--text-dark);
     padding: var(--spacing-section, 100px) 16px 80px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
 }
 
 /* Decorative Flourish */
@@ -2466,7 +2470,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-services-section__title {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 2.4rem;
     font-weight: 400;
     letter-spacing: 0.02em;
@@ -2526,7 +2530,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-services-section__card-title {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 1.1rem;
     font-weight: 600;
     line-height: 1.3;
@@ -2545,7 +2549,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-services-section__card-link {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 0.75rem;
     font-weight: 600;
     letter-spacing: 0.15em;
@@ -2620,7 +2624,7 @@ main { flex: 1 0 auto; }
   background: linear-gradient(180deg, #1A0A2E 0%, #2D1B4E 60%, #1A0A2E 100%);
   color: var(--text-light);
   padding: 100px 24px 80px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .home-showcase-section .showcase-container {
@@ -2642,7 +2646,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-showcase-section .showcase-heading {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -2656,7 +2660,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   line-height: 1.75;
   color: #B39DCC;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   margin: 0;
   max-width: 540px;
 }
@@ -2675,7 +2679,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-showcase-section .showcase-list-title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -2689,7 +2693,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   line-height: 1.75;
   color: #B39DCC;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   margin: 0;
 }
 
@@ -2845,7 +2849,7 @@ main { flex: 1 0 auto; }
     padding: var(--spacing-section, 100px) 16px;
     padding-bottom: calc(var(--spacing-section, 100px) + 80px);
     overflow: visible;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
 }
 
 .home-testimonials-section__container {
@@ -2866,7 +2870,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-testimonials-section__header h2 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Righteous', sans-serif;
     font-size: 2.4rem;
     font-weight: 400;
     letter-spacing: 0.02em;
@@ -2944,7 +2948,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-testimonials-section__card blockquote p {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 0.88rem;
     font-weight: 400;
     line-height: 1.75;
@@ -2978,7 +2982,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-testimonials-section__author {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 1rem;
     font-style: normal;
     color: var(--primary);
@@ -3132,7 +3136,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-cta-section__heading {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 1.3;
@@ -3142,7 +3146,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-cta-section__text {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1rem;
   line-height: 1.7;
   color: var(--text-light);
@@ -3163,7 +3167,7 @@ main { flex: 1 0 auto; }
   display: inline-block;
   padding: 14px 28px;
   border-radius: 6px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-weight: 600;
   font-size: 0.8rem;
   letter-spacing: 0.12em;
@@ -3303,7 +3307,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-intro-section__title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 3rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -3314,7 +3318,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-intro-section__subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.15rem;
   line-height: 1.8;
   font-style: italic;
@@ -3347,7 +3351,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-intro-section__summary-text {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1rem;
   line-height: 1.75;
   color: var(--text-dark);
@@ -3364,7 +3368,7 @@ main { flex: 1 0 auto; }
   border: none;
   padding: 10px 20px;
   font-size: 0.8rem;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -3403,7 +3407,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-intro-section__image-caption {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.875rem;
   font-style: italic;
   color: var(--text-muted);
@@ -3469,7 +3473,7 @@ main { flex: 1 0 auto; }
   padding: var(--spacing-section, 100px) 16px;
   position: relative;
   overflow: visible;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .services-capabilities-container {
@@ -3517,7 +3521,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-capabilities-section .panel-content h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 1.375rem;
   font-weight: 600;
   line-height: 1.4;
@@ -3536,7 +3540,7 @@ main { flex: 1 0 auto; }
 .services-capabilities-section .panel-audience,
 .services-capabilities-section .panel-offering,
 .services-capabilities-section .panel-tone {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1rem;
   line-height: 1.7;
   margin: 0;
@@ -3573,7 +3577,7 @@ main { flex: 1 0 auto; }
   padding: 14px 28px;
   border-radius: var(--radius-btn, 6px);
   border: none;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-weight: 600;
   font-size: 0.8rem;
   letter-spacing: 0.12em;
@@ -3736,7 +3740,7 @@ main { flex: 1 0 auto; }
 
 /* Centered H2 Heading */
 .services-benefits-section__heading {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -3795,7 +3799,7 @@ main { flex: 1 0 auto; }
 
 /* Card Title */
 .services-benefits-section__card-title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -3806,7 +3810,7 @@ main { flex: 1 0 auto; }
 
 /* Card Text */
 .services-benefits-section__card-text {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.75;
@@ -3928,7 +3932,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-process-section__header h2 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Righteous', sans-serif;
     font-size: 2.4rem;
     font-weight: 400;
     letter-spacing: 0.02em;
@@ -3938,7 +3942,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-process-section__header p {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 1.15rem;
     line-height: 1.8;
     color: var(--text-muted);
@@ -3975,7 +3979,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-process-section__step-number span {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 1.75rem;
     font-weight: 600;
     color: #F3EEFF;
@@ -4001,7 +4005,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-process-section__step-card h3 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Righteous', sans-serif;
     font-size: 1.1rem;
     font-weight: 600;
     line-height: 1.3;
@@ -4011,7 +4015,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-process-section__step-card p {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 0.88rem;
     font-weight: 400;
     line-height: 1.75;
@@ -4168,7 +4172,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-faq-section__title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -4178,7 +4182,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-faq-section__subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.15rem;
   line-height: 1.8;
   font-style: italic;
@@ -4210,7 +4214,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-faq-section__question {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -4235,7 +4239,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-faq-section__answer {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.88rem;
   font-weight: 400;
   line-height: 1.75;
@@ -4324,7 +4328,7 @@ main { flex: 1 0 auto; }
   color: var(--text-dark);
   padding: 120px 16px 100px;
   overflow: hidden;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .about-story-section .story-container {
@@ -4371,7 +4375,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-story-section .story-headline {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 3rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -4392,7 +4396,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-story-section .story-paragraph {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.8;
@@ -4411,7 +4415,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-story-section .story-values-title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.375rem;
   font-weight: 600;
   line-height: 1.4;
@@ -4420,7 +4424,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-story-section .story-values-text {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.7;
@@ -4466,7 +4470,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-story-section .story-caption {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.875rem;
   font-weight: 400;
   line-height: 1.6;
@@ -4542,7 +4546,7 @@ main { flex: 1 0 auto; }
     color: var(--text-light);
     padding: 100px 16px;
     overflow: hidden;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
 }
 
 .about-values-section__bg-overlay {
@@ -4569,7 +4573,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-values-section__title {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 2.4rem;
     font-weight: 400;
     letter-spacing: 0.02em;
@@ -4580,7 +4584,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-values-section__subtitle {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-style: italic;
     font-size: 1.15rem;
     line-height: 1.8;
@@ -4633,7 +4637,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-values-section__card-title {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 1.1rem;
     font-weight: 600;
     line-height: 1.3;
@@ -4643,7 +4647,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-values-section__card-text {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Reenie Beanie', sans-serif;
     font-size: 0.88rem;
     font-weight: 400;
     line-height: 1.75;
@@ -4733,7 +4737,7 @@ main { flex: 1 0 auto; }
   background: linear-gradient(180deg, #F0EBE3 0%, #E8E0D5 100%);
   color: var(--text-dark);
   padding: var(--spacing-section, 100px) 16px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .about-portfolio-section-container {
@@ -4751,7 +4755,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-portfolio-section .about-portfolio-section-intro h2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -4762,7 +4766,7 @@ main { flex: 1 0 auto; }
 
 .about-portfolio-section .about-portfolio-section-intro p {
   font-size: 1.15rem;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-style: italic;
   line-height: 1.8;
   color: var(--text-muted);
@@ -4831,7 +4835,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-portfolio-section .about-portfolio-section-image-caption h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -4844,7 +4848,7 @@ main { flex: 1 0 auto; }
   font-size: 0.875rem;
   line-height: 1.6;
   color: var(--text-muted);
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 /* Decorative Flourish */
@@ -4933,7 +4937,7 @@ main { flex: 1 0 auto; }
   color: var(--text-light);
   padding: 100px 24px;
   overflow: hidden;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .about-credentials-section .about-credentials-container {
@@ -4959,7 +4963,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   color: #F3EEFF;
   margin: 0 0 8px 0;
   position: relative;
@@ -4981,7 +4985,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   line-height: 1.75;
   color: #B39DCC;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   margin: 0;
   max-width: 560px;
 }
@@ -5034,7 +5038,7 @@ main { flex: 1 0 auto; }
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   color: #F3EEFF;
   letter-spacing: 0.01em;
   margin: 0 0 12px 0;
@@ -5045,7 +5049,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   line-height: 1.75;
   color: #B39DCC;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   margin: 0;
 }
 
@@ -5113,7 +5117,7 @@ main { flex: 1 0 auto; }
   background: linear-gradient(180deg, #F0EBE3 0%, #E8E0D5 100%);
   color: var(--text-dark);
   padding: var(--spacing-section, 100px) 16px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .blog-editorial-intro-section__container {
@@ -5135,7 +5139,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-editorial-intro-section__title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 3rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -5160,7 +5164,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-editorial-intro-section__subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.15rem;
   font-style: italic;
   line-height: 1.8;
@@ -5202,7 +5206,7 @@ main { flex: 1 0 auto; }
 .blog-editorial-intro-section__featured-badge {
   display: inline-block;
   width: fit-content;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 0.1em;
@@ -5216,7 +5220,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-editorial-intro-section__featured-title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -5226,7 +5230,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-editorial-intro-section__featured-excerpt {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.88rem;
   font-weight: 400;
   line-height: 1.75;
@@ -5247,7 +5251,7 @@ main { flex: 1 0 auto; }
   display: flex;
   align-items: center;
   gap: 6px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.8rem;
   font-weight: 500;
   color: var(--text-muted);
@@ -5264,7 +5268,7 @@ main { flex: 1 0 auto; }
   align-items: center;
   gap: 8px;
   margin-top: 16px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 0.12em;
@@ -5453,7 +5457,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-topics-section__title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -5463,7 +5467,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-topics-section__subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.15rem;
   font-style: italic;
   line-height: 1.8;
@@ -5513,7 +5517,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-topics-section__card-title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -5523,7 +5527,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-topics-section__card-text {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.88rem;
   font-weight: 400;
   line-height: 1.75;
@@ -5595,7 +5599,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-highlights-section__title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -5617,7 +5621,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-highlights-section__subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.15rem;
   line-height: 1.8;
   font-weight: 400;
@@ -5675,7 +5679,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-highlights-section__tag {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0.1em;
@@ -5685,7 +5689,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-highlights-section__card-title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.3rem;
   font-weight: 600;
   line-height: 1.3;
@@ -5694,7 +5698,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-highlights-section__card-text {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.88rem;
   font-weight: 400;
   line-height: 1.75;
@@ -5704,7 +5708,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-highlights-section__link {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 0.1em;
@@ -5846,7 +5850,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-philosophy-section .philosophy-heading {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -5882,7 +5886,7 @@ main { flex: 1 0 auto; }
 }
 
 .blog-philosophy-section .philosophy-paragraph {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.15rem;
   font-weight: 400;
   line-height: 1.8;
@@ -5942,7 +5946,7 @@ main { flex: 1 0 auto; }
   background: linear-gradient(180deg, #F0EBE3 0%, #E8E0D5 100%);
   color: var(--text-dark);
   padding: 120px 16px 100px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .community-community-intro-section .community-intro-container {
@@ -5959,7 +5963,7 @@ main { flex: 1 0 auto; }
 }
 
 .community-community-intro-section .community-intro-heading {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -5972,7 +5976,7 @@ main { flex: 1 0 auto; }
 .community-community-intro-section .community-intro-subtitle {
   font-size: 1.15rem;
   line-height: 1.8;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-style: italic;
   color: var(--text-muted);
   max-width: 700px;
@@ -6000,7 +6004,7 @@ main { flex: 1 0 auto; }
   color: var(--text-dark);
   margin: 0;
   font-weight: 400;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .community-community-intro-section .community-intro-blurbs {
@@ -6024,7 +6028,7 @@ main { flex: 1 0 auto; }
 }
 
 .community-community-intro-section .community-intro-blurb-title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -6039,7 +6043,7 @@ main { flex: 1 0 auto; }
   color: var(--text-muted);
   margin: 0;
   font-weight: 400;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 /* END Column: Image */
@@ -6072,7 +6076,7 @@ main { flex: 1 0 auto; }
   font-size: 0.875rem;
   line-height: 1.6;
   color: var(--text-muted);
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-style: italic;
   text-align: center;
   padding: 12px 16px;
@@ -6125,7 +6129,7 @@ main { flex: 1 0 auto; }
   color: var(--text-light);
   padding: var(--spacing-section, 100px) 16px;
   overflow: hidden;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 /* Background starfield pattern */
@@ -6165,7 +6169,7 @@ main { flex: 1 0 auto; }
 }
 
 .community-principles-section .principles-header h2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -6175,7 +6179,7 @@ main { flex: 1 0 auto; }
 }
 
 .community-principles-section .principles-subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-style: italic;
   font-size: 1.15rem;
   line-height: 1.8;
@@ -6235,7 +6239,7 @@ main { flex: 1 0 auto; }
 
 /* Card Headings */
 .community-principles-section .principle-card h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -6330,7 +6334,7 @@ main { flex: 1 0 auto; }
 }
 
 .community-discussion-areas-section__title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -6341,7 +6345,7 @@ main { flex: 1 0 auto; }
 }
 
 .community-discussion-areas-section__subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.15rem;
   font-weight: 400;
   line-height: 1.8;
@@ -6400,7 +6404,7 @@ main { flex: 1 0 auto; }
 }
 
 .community-discussion-areas-section__card-title {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   letter-spacing: 0.01em;
@@ -6410,7 +6414,7 @@ main { flex: 1 0 auto; }
 }
 
 .community-discussion-areas-section__card-desc {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.88rem;
   font-weight: 400;
   line-height: 1.75;
@@ -6626,7 +6630,7 @@ main { flex: 1 0 auto; }
 
 /* Heading */
 .community-invitation-section__heading {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -6637,7 +6641,7 @@ main { flex: 1 0 auto; }
 
 /* Subtitle paragraph */
 .community-invitation-section__subtitle {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.15rem;
   font-style: italic;
   line-height: 1.8;
@@ -6648,7 +6652,7 @@ main { flex: 1 0 auto; }
 
 /* Body paragraph */
 .community-invitation-section__body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.88rem;
   font-weight: 400;
   line-height: 1.75;
@@ -6716,7 +6720,7 @@ main { flex: 1 0 auto; }
 
 /* Whisper quote */
 .community-invitation-section__whisper {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 0.85rem;
   font-style: italic;
   line-height: 1.6;
@@ -6827,7 +6831,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   color: var(--text-dark);
   margin-bottom: 24px;
 }
@@ -6835,7 +6839,7 @@ main { flex: 1 0 auto; }
 .contact-contact-intro-header p {
   font-size: 1.15rem;
   line-height: 1.8;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-style: italic;
   color: var(--text-muted);
   max-width: 720px;
@@ -6869,7 +6873,7 @@ main { flex: 1 0 auto; }
   text-transform: uppercase;
   color: var(--secondary);
   margin-bottom: 8px;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
 }
 
 .contact-contact-intro-card h2 {
@@ -6877,7 +6881,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Righteous', sans-serif;
   color: var(--text-dark);
   margin-bottom: 16px;
 }
@@ -6887,7 +6891,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   line-height: 1.75;
   color: var(--text-muted);
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   margin-bottom: 32px;
 }
 
@@ -6931,7 +6935,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   line-height: 1.75;
   color: var(--text-dark);
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -6954,7 +6958,7 @@ main { flex: 1 0 auto; }
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   text-decoration: none;
   transition: all 0.3s ease;
   margin-bottom: 32px;
@@ -7221,7 +7225,7 @@ main { flex: 1 0 auto; }
 .contact-contact-methods-section__card-title {
   position: relative;
   z-index: 2;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -7234,7 +7238,7 @@ main { flex: 1 0 auto; }
 .contact-contact-methods-section__card-text {
   position: relative;
   z-index: 2;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.75;
@@ -7302,7 +7306,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   color: var(--text-dark);
   text-align: center;
   margin-bottom: 8px;
@@ -7313,7 +7317,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   line-height: 1.75;
   color: var(--text-muted, #6F657A);
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   text-align: center;
   margin-bottom: 32px;
 }
@@ -7339,7 +7343,7 @@ main { flex: 1 0 auto; }
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   color: var(--text-dark);
 }
 
@@ -7350,7 +7354,7 @@ main { flex: 1 0 auto; }
   border-radius: var(--radius-input, 6px);
   padding: 14px 16px;
   font-size: 0.88rem;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   color: var(--text-dark);
   transition: var(--transition-default, all 0.3s ease);
   outline: none;
@@ -7381,7 +7385,7 @@ main { flex: 1 0 auto; }
   font-size: 0.8rem;
   font-weight: 400;
   line-height: 1.6;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   color: var(--text-muted, #6F657A);
   cursor: pointer;
 }
@@ -7420,7 +7424,7 @@ main { flex: 1 0 auto; }
   font-size: 0.8rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   cursor: pointer;
   transition: var(--transition-hover, all 0.3s ease);
   box-shadow: 0 4px 15px rgba(0,0,0,0.072);
@@ -7515,7 +7519,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   color: #F3EEFF;
   margin: 0 0 24px 0;
   position: relative;
@@ -7525,7 +7529,7 @@ main { flex: 1 0 auto; }
 .contact-closing-note-section__text {
   font-size: 1.15rem;
   line-height: 1.8;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Reenie Beanie', sans-serif;
   font-style: italic;
   color: #F3EEFF;
   margin: 0 0 32px 0;
@@ -7599,7 +7603,7 @@ main { flex: 1 0 auto; }
 
 /* Global font override - exclude icon fonts and special elements */
 *:not(.fas):not(.far):not(.fab):not(.fa):not([class*="fa-"]):not(.iconify):not([class*="icon"]):not(code):not(pre):not(i[class*="fa"]) {
-  font-family: 'Inter', sans-serif !important;
+  font-family: 'Reenie Beanie', sans-serif !important;
 }
 
 
