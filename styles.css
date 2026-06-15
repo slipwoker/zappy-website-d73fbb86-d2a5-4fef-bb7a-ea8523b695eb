@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Righteous:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy:wght@400&display=swap');
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
 
@@ -99,8 +99,8 @@
   --transition-default: all 0.3s ease;
   --transition-hover: all 0.3s ease;
 
-  --heading-font: 'Righteous', sans-serif;
-  --font-heading: 'Righteous', sans-serif;
+  --heading-font: 'Satisfy', sans-serif;
+  --font-heading: 'Satisfy', sans-serif;
   --body-font: 'Amatic SC', sans-serif;
   --font-family: 'Amatic SC', sans-serif;
   --font-primary: 'Amatic SC', sans-serif;
@@ -181,7 +181,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   letter-spacing: -0.01em;
   color: var(--text-dark);
   overflow-wrap: break-word;
@@ -2255,7 +2255,7 @@ main { flex: 1 0 auto; }
 }
 
 /* H1 headline */
-.home-hero-section__headline {font-family: 'Righteous', sans-serif;
+.home-hero-section__headline {font-family: 'Satisfy', sans-serif;
   font-size: 3rem;
   font-weight: 400;
   font-style: italic;
@@ -2266,7 +2266,7 @@ main { flex: 1 0 auto; }
 
 /* H3 subtitle */
 .home-hero-section__subtitle {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   font-size: 1.1rem;
   font-weight: 500;
   line-height: 1.6;
@@ -2878,7 +2878,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-testimonials-section__header h2 {
-    font-family: 'Righteous', sans-serif;
+    font-family: 'Satisfy', sans-serif;
     font-size: 2.4rem;
     font-weight: 400;
     letter-spacing: 0.02em;
@@ -3529,7 +3529,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-capabilities-section .panel-content h3 {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   font-size: 1.375rem;
   font-weight: 600;
   line-height: 1.4;
@@ -3748,7 +3748,7 @@ main { flex: 1 0 auto; }
 
 /* Centered H2 Heading */
 .services-benefits-section__heading {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -3940,7 +3940,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-process-section__header h2 {
-    font-family: 'Righteous', sans-serif;
+    font-family: 'Satisfy', sans-serif;
     font-size: 2.4rem;
     font-weight: 400;
     letter-spacing: 0.02em;
@@ -4013,7 +4013,7 @@ main { flex: 1 0 auto; }
 }
 
 .services-process-section__step-card h3 {
-    font-family: 'Righteous', sans-serif;
+    font-family: 'Satisfy', sans-serif;
     font-size: 1.1rem;
     font-weight: 600;
     line-height: 1.3;
@@ -4763,7 +4763,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-portfolio-section .about-portfolio-section-intro h2 {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -4843,7 +4843,7 @@ main { flex: 1 0 auto; }
 }
 
 .about-portfolio-section .about-portfolio-section-image-caption h3 {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -4971,7 +4971,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   color: #F3EEFF;
   margin: 0 0 8px 0;
   position: relative;
@@ -5046,7 +5046,7 @@ main { flex: 1 0 auto; }
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   color: #F3EEFF;
   letter-spacing: 0.01em;
   margin: 0 0 12px 0;
@@ -6177,7 +6177,7 @@ main { flex: 1 0 auto; }
 }
 
 .community-principles-section .principles-header h2 {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   font-size: 2.4rem;
   font-weight: 400;
   letter-spacing: 0.02em;
@@ -6247,7 +6247,7 @@ main { flex: 1 0 auto; }
 
 /* Card Headings */
 .community-principles-section .principle-card h3 {
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   font-size: 1.1rem;
   font-weight: 600;
   line-height: 1.3;
@@ -6839,7 +6839,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   color: var(--text-dark);
   margin-bottom: 24px;
 }
@@ -6889,7 +6889,7 @@ main { flex: 1 0 auto; }
   font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Satisfy', sans-serif;
   color: var(--text-dark);
   margin-bottom: 16px;
 }
