@@ -1,0 +1,109 @@
+# Miss Linz The Mystic — Generative Engine Optimization Map
+
+> A mystical and creative online presence for a spiritual service provider and artist rooted in witchcraft, energy healing, and pagan traditions. The brand blends ethereal aesthetics with practical magick, offering services ranging from past life regression and Reiki healing to tarot readings and officiating pagan ceremonies. Alongside these services, the site will feature a handcrafted magickal goods shop, a witchcraft-centered blog with creativity tips and hints, and an interactive community forum — creating a holistic, enchanting hub for spiritual seekers and practitioners alike.
+
+---
+
+## Pages
+
+### Home
+https://miss-linz-the-mystic-d73fbb86.zappy5.app
+Discover online Usui Reiki healing, tarot readings, and handcrafted magickal goods. Your enchanting hub for witchcraft, energy work, and pagan traditions awaits. Begin your journey today.
+
+### Services
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/services
+Book transformative sessions from past life regression and aura energy readings to online Reiki. Explore pagan wedding officiant services and psychic medium insights. Reserve your sacred space now.
+
+### About
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/about
+Learn about Miss Linz, a practicing witch and energy healer blending artistry with practical magick. Discover how tarot, Reiki, and pagan roots shape this unique spiritual path. Connect deeper.
+
+### Blog
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/blog
+Dive into a witchcraft-centered blog bursting with creativity tips, spellcraft hints, and pagan wisdom. Elevate your practice with fresh insights and enchanted inspiration. Read the latest now.
+
+### Community
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/community
+Join an interactive forum for spiritual seekers and practitioners. Share tarot spreads, discuss energy healing, and celebrate pagan traditions in a welcoming, enchanted community. Start connecting.
+
+### Contact
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/contact
+Ready to book an aura energy reading, inquire about pagan ceremonies, or ask about Reiki? Reach out to Miss Linz The Mystic and let your spiritual journey unfold. Message us today.
+
+### Products
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/products
+Our Products - Miss Linz The Mystic
+
+### Cart
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/checkout
+Checkout
+
+### Login
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/login
+Customer Login
+
+### Account
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/account
+My Account
+
+### Order Success
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/product/:slug
+Product Details - Miss Linz The Mystic
+
+### Category
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/category/:slug
+Products - Miss Linz The Mystic
+
+## Legal & Policy
+
+### Privacy Policy
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://miss-linz-the-mystic-d73fbb86.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Miss Linz The Mystic
+A mystical and creative online presence for a spiritual service provider and artist rooted in witchcraft, energy healing, and pagan traditions. The brand blends ethereal aesthetics with practical magick, offering services ranging from past life regression and Reiki healing to tarot readings and officiating pagan ceremonies. Alongside these services, the site will feature a handcrafted magickal goods shop, a witchcraft-centered blog with creativity tips and hints, and an interactive community forum — creating a holistic, enchanting hub for spiritual seekers and practitioners alike.
+
+## Target Audience
+- Individuals seeking spiritual healing, metaphysical services, and handcrafted magickal products
+- Spiritual Seekers
+- Craft Magick Enthusiasts
+- Witchcraft Blog Readers
+
+## Industry
+Spiritual Services & Metaphysical Arts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://miss-linz-the-mystic-d73fbb86.zappy5.app/sitemap.xml
+- Robots: https://miss-linz-the-mystic-d73fbb86.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://miss-linz-the-mystic-d73fbb86.zappy5.app/llms-full.txt
+- Products (JSON): https://miss-linz-the-mystic-d73fbb86.zappy5.app/products.json
+- Products (Google Merchant RSS): https://miss-linz-the-mystic-d73fbb86.zappy5.app/product-feed.xml
