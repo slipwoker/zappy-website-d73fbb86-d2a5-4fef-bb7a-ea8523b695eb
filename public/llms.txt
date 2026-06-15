@@ -7,73 +7,73 @@
 ## Pages
 
 ### Home
-https://miss-linz-the-mystic-d73fbb86.zappy5.app
+https://example.com
 Discover online Usui Reiki healing, tarot readings, and handcrafted magickal goods. Your enchanting hub for witchcraft, energy work, and pagan traditions awaits. Begin your journey today.
 
 ### Services
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/services
+https://example.com/services
 Book transformative sessions from past life regression and aura energy readings to online Reiki. Explore pagan wedding officiant services and psychic medium insights. Reserve your sacred space now.
 
 ### About
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/about
+https://example.com/about
 Learn about Miss Linz, a practicing witch and energy healer blending artistry with practical magick. Discover how tarot, Reiki, and pagan roots shape this unique spiritual path. Connect deeper.
 
 ### Blog
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/blog
+https://example.com/blog
 Dive into a witchcraft-centered blog bursting with creativity tips, spellcraft hints, and pagan wisdom. Elevate your practice with fresh insights and enchanted inspiration. Read the latest now.
 
 ### Community
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/community
+https://example.com/community
 Join an interactive forum for spiritual seekers and practitioners. Share tarot spreads, discuss energy healing, and celebrate pagan traditions in a welcoming, enchanted community. Start connecting.
 
 ### Contact
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/contact
+https://example.com/contact
 Ready to book an aura energy reading, inquire about pagan ceremonies, or ask about Reiki? Reach out to Miss Linz The Mystic and let your spiritual journey unfold. Message us today.
 
 ### Products
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/products
+https://example.com/products
 Our Products - Miss Linz The Mystic
 
 ### Cart
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - Miss Linz The Mystic
 
 ### Category
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - Miss Linz The Mystic
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://miss-linz-the-mystic-d73fbb86.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Spiritual Services & Metaphysical Arts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://miss-linz-the-mystic-d73fbb86.zappy5.app/sitemap.xml
-- Robots: https://miss-linz-the-mystic-d73fbb86.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://miss-linz-the-mystic-d73fbb86.zappy5.app/llms-full.txt
-- Products (JSON): https://miss-linz-the-mystic-d73fbb86.zappy5.app/products.json
-- Products (Google Merchant RSS): https://miss-linz-the-mystic-d73fbb86.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
