@@ -80,7 +80,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### Chakra Candle Set
+https://example.com/product/chakra-candle-set-ybwq0t
+- Price: 30.00 USD
+- Availability: In stock
+- Category: Handmade Magick
+- Description: Full set of 7 candles, each designed and made to promote healing energy.
+- Image: https://example.com/assets/product-1781510087242-v28za.webp
 
 ---
 

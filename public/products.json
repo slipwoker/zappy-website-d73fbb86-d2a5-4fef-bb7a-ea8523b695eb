@@ -1,8 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T07:14:25.722Z",
+  "generated_at": "2026-06-15T07:58:53.507Z",
   "base_url": "https://example.com",
   "currency": "USD",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "aec1a35a-69cd-4fba-a257-e55eddfa3534",
+      "slug": "chakra-candle-set-ybwq0t",
+      "name": "Chakra Candle Set",
+      "name_translations": {},
+      "description": "<p>Each chakra matches up with its corresponding candle, and used together the set helps to call forth healing vibes in your own space. </p>",
+      "short_description": "Full set of 7 candles, each designed and made to promote healing energy.",
+      "sku": null,
+      "brand": null,
+      "price": 30,
+      "base_price": 30,
+      "sale_price": null,
+      "currency": "USD",
+      "images": [
+        "https://example.com/assets/product-1781510087242-v28za.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chakra-candle-set-ybwq0t",
+      "categories": [
+        "Handmade Magick"
+      ],
+      "updated_at": "2026-06-15T07:57:16.801Z"
+    }
+  ]
 }
